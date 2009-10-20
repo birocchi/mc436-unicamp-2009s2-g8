@@ -25,17 +25,17 @@ Inscrições e submissões:
 - 2 Cadastrar-se		: Coordenador, Revisores, Participantes
 - 3 Efetuar inscrição		: Revisores, Participantes
 - 4 Submeter trabalhos		: Participantes
-- 5 Visualizar trabalhos	: Participantes
-- 6 Editar trabalhos		: Participantes
+- 5 Editar trabalhos		: Participantes
 
 
 Atribuição de revisores:
-- 7 Atribuir revisores		: Coordenador
+- 6 Atribuir revisores		: Coordenador
 
 
 Avaliar e revisar:
-- 8 Avaliar trabalhos		: Revisores
-- 9 Visualizar revisão		: Participantes
+- 7 Avaliar trabalhos		: Revisores
+- 8 Editar revisões		: Revisores
+- 9 Ver comentários da revisão	: Participantes
 
 Decisão e notificação:
 - 10 Aceitar/Rejeitar trabalhos	: Coordenador
