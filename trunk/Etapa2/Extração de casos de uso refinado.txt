@@ -35,7 +35,7 @@ Atribuição de revisores:
 Avaliar e revisar:
 - 7 Avaliar trabalhos		: Revisores
 - 8 Editar revisões		: Revisores
-- 9 Ver comentários da revisão	: Participantes
+- 9 Ver comentários da revisão	: Revisores, Participantes
 
 Decisão e notificação:
 - 10 Aceitar/Rejeitar trabalhos	: Coordenador
