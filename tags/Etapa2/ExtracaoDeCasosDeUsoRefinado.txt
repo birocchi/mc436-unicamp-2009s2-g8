@@ -1,0 +1,42 @@
+Atores:
+
+-Administrador: Tem poder total sobre o sistema e é responsável por criar as conferências e atribuir
+as pessoas que atuarão como Coordenadores (Program Chairs) de cada conferência.
+
+-Coordenador: Tem acesso a todas as informações sobre as conferências as quais é responsável, tem o
+poder abrir a conferência para submissões de trabalhos, de atribuir cargos para o comitê de revisores
+dos trabalhos submetidos e de aceitar ou não os trabalhos baseando-se no resultado das avaliações.
+
+-Revisores: Usuários do sistema podem se candidatar a participar do comitê de revisores, e se forem aceitos,
+terão de avaliar os trabalhos submetidos para a conferência e de dar uma nota aos mesmos, explicando o 
+porquê de tal nota e demais comentários que julgar necessário.
+
+-Participantes: São pessoas interessadas em ter seu trabalho aceito pela conferência, que podem submeter
+e editar seus trabalhos e fazer upload dos arquivos.
+
+
+
+Casos de Uso:
+
+Criação:
+- 1 Criar conferência		: Administrador
+
+Inscrições e submissões:
+- 2 Cadastrar-se		: Coordenador, Revisores, Participantes
+- 3 Efetuar inscrição		: Revisores, Participantes
+- 4 Submeter trabalhos		: Participantes
+- 5 Editar trabalhos		: Participantes
+
+
+Atribuição de revisores:
+- 6 Atribuir revisores		: Coordenador
+
+
+Avaliar e revisar:
+- 7 Avaliar trabalhos		: Revisores
+- 8 Editar revisões		: Revisores
+- 9 Ver comentários da revisão	: Revisores, Participantes
+
+Decisão e notificação:
+- 10 Aceitar/Rejeitar trabalhos	: Coordenador
+
